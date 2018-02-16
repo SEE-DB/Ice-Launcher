@@ -1,0 +1,5 @@
+cart_start_r0 = 1;
+v_release = 0.6976;
+omega_initial = 34.0404;
+
+s = [cart_start_r0 v_release omega_initial];

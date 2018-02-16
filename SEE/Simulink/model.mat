@@ -1,0 +1,4 @@
+model.Izz = 3.465E+16/1000/1000^2;
+model.m = 10+7;
+
+model = [model.m model.Izz];
