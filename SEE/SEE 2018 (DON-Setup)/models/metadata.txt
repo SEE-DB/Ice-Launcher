@@ -1,0 +1,11 @@
+id="erau_disc":
+	filename="erau_disc.obj":
+		position: (0, 0, 0)
+		orientation: (0, 0, 0, 1)
+		scale: (1, 1, 1)
+		
+id="erau_arm":
+	filename="erau_arm.obj":
+		position: (0, 0, 0)
+		orientation: (0, 0, 0, 1)
+		scale: (1, 1, 1)
